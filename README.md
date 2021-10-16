@@ -7,7 +7,7 @@ A cada tarefa cumprida, tirar uma foto e enviar no Whatsapp.
 ## Tarefas
 
 - Criar na **home** do seu usuário um diretório chamado `textos`
-- Entrar no diretório `textos` e criar um arquivo chamado `nomes.txt com o seguinte conteúdo:
+- Entrar no diretório `textos` e criar um arquivo chamado `nomes.txt` com o seguinte conteúdo:
 
 ```
 Roberto Carlos
